@@ -1,3 +1,5 @@
+package myProject;
+
 /**
  * Interfaz Strategy para diferentes tipos de ataque
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298

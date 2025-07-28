@@ -1,3 +1,5 @@
+package myProject;
+
 /**
  * Singleton para manejar la configuración del juego
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298

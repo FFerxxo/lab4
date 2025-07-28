@@ -1,3 +1,6 @@
+package myProject;
+
+
 /**
  * Excepción que se lanza cuando se intenta colocar un barco en una posición inválida
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298

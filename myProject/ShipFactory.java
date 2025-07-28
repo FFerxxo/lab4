@@ -1,3 +1,6 @@
+package myProject;
+
+
 /**
  * Factory para crear diferentes tipos de barcos
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298

@@ -1,4 +1,4 @@
-/**
+package myProject; /**
  * Esta clase es usada...
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298
  *

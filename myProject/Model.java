@@ -1,3 +1,5 @@
+package myProject;
+
 /**
  * Clase Combate
  * @author Andres Barbosa : andres.barbosa@correounivalle.edu.co - 2324298
